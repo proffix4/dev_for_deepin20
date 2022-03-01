@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name[ru_RU]=Calibre
+Categories=Utility;
+X-GNOME-FullName[ru_RU]=Calibre
+Comment[ru_RU]=
+Icon=calibre
+NoDisplay=false
+Exec=/opt/calibre/calibre
+Path=
+Terminal=false
+X-GNOME-UsesNotifications=false
