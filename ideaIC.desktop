@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name[ru_RU]=ideaIC
+Categories=Development;
+X-GNOME-FullName[ru_RU]=ideaIC
+Comment[ru_RU]=
+Icon=/opt/dev/idea-IC/bin/idea.svg
+NoDisplay=false
+Exec=/opt/dev/idea-IC/bin/idea.sh
+Path=
+Terminal=false
+X-GNOME-UsesNotifications=false
